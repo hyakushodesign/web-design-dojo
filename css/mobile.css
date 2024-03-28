@@ -96,7 +96,7 @@ body {
     margin-right: 14px;
 }
 
-.blog-content{
+.blog__content{
     width: calc(100% - 80px - 14px);
 }
 
